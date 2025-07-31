@@ -46,3 +46,6 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilu-sebastian&theme=tokyonight" alt="GitHub Streak" />
 </p>
+### 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilu-sebastian&layout=compact&theme=tokyonight)
