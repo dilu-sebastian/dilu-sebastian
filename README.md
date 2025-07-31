@@ -24,15 +24,20 @@
 🛠️ **Languages & Tools**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=Qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/QML-41CD52?style=flat&logo=Qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multithreading-%23282828?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSocket-%23000000?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=Qt&logoColor=white" />
+<img src="https://img.shields.io/badge/QML-41CD52?style=flat&logo=Qt&logoColor=white" />
+<img src="https://img.shields.io/badge/Multithreading-%23282828?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSocket-%23000000?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+
+  
 </p>
 📈 **GitHub Stats**
 
